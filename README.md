@@ -11,7 +11,7 @@
 ### Connect with me:
 ### Connect with me:
 
-<a href="mailto:nicollyypequena@gmail.com" target="_blank">
+<a href="mailto:nicolly_araujo2007@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/nicolly-araujo-66401129b/" target="_blank">
