@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[![Email Badge](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email Badge](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nicolly_araujo@outlook.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/nicolly-araujo-66401129b/))
 
 ---
 
@@ -28,6 +28,8 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicollyDevOps19&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyDevOps19&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicollyDevOps19&show_icons=true&theme=dark" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyDevOps19&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
