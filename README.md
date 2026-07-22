@@ -49,11 +49,12 @@
 
 ---
 
-##Meus Projetos 
-[Prof-folio](https://github.com/NicollyDevOps19/Prof.folio)
-[Projeto - loja ](https://github.com/NicollyDevOps19/Projeto-Loja-)
-[Doce - encanto 1](https://github.com/NicollyDevOps19/Doce-Encanto1-)
-[Site - escolar](https://github.com/NicollyDevOps19/Site-Escolar-)
-[SiteTopx](https://github.com/NicollyDevOps19/SiteTopx)
+🎧 Meus Projetos
+
+- [Portfólio](https://github.com/NicollyDevOps19/Prof.folio)
+- [Projeto Loja](https://github.com/NicollyDevOps19/Projeto-Loja-)
+- [Doce Encanto](https://github.com/NicollyDevOps19/Doce-Encanto1-)
+- [Site Escolar](https://github.com/NicollyDevOps19/Site-Escolar-)
+- [Site Topx](https://github.com/NicollyDevOps19/SiteTopx)
 
 
