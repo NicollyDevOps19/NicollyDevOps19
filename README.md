@@ -48,3 +48,12 @@
 ![Azure AI-900](https://img.shields.io/badge/AI--900_Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
+
+##Meus Projetos 
+[Prof-folio](https://github.com/NicollyDevOps19/Prof.folio)
+[Projeto - loja ](https://github.com/NicollyDevOps19/Projeto-Loja-)
+[Doce - encanto 1](https://github.com/NicollyDevOps19/Doce-Encanto1-)
+[Site - escolar](https://github.com/NicollyDevOps19/Site-Escolar-)
+[SiteTopx](https://github.com/NicollyDevOps19/SiteTopx)
+
+
